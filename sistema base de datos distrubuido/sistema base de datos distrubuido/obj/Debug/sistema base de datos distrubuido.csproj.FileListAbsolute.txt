@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\sistema base de datos distrubuido\sistema base de datos distrubuido\bin\Debug\sistema base de datos distrubuido.exe.config
+C:\Users\cesar\source\repos\sistema base de datos distrubuido\sistema base de datos distrubuido\bin\Debug\sistema base de datos distrubuido.exe
+C:\Users\cesar\source\repos\sistema base de datos distrubuido\sistema base de datos distrubuido\bin\Debug\sistema base de datos distrubuido.pdb
+C:\Users\cesar\source\repos\sistema base de datos distrubuido\sistema base de datos distrubuido\obj\Debug\sistema base de datos distrubuido.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\sistema base de datos distrubuido\sistema base de datos distrubuido\obj\Debug\sistema base de datos distrubuido.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\sistema base de datos distrubuido\sistema base de datos distrubuido\obj\Debug\sistema base de datos distrubuido.exe
+C:\Users\cesar\source\repos\sistema base de datos distrubuido\sistema base de datos distrubuido\obj\Debug\sistema base de datos distrubuido.pdb
